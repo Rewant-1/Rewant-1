@@ -29,15 +29,15 @@ const rewant = {
   focus:      ["React", "Next.js", "TypeScript", "AI-powered apps"],
   building:   "Scalable, performant, and accessible web experiences",
   achievements: ["SIH'25 Finalist", "Smart Delhi Ideathon Top 10 / 1500+ teams"],
-  funFact:    "I benchmark everything with Autocannon before shipping 🚀",
+  funFact:    "I benchmark everything with Autocannon and Lighthouse before shipping 🚀",
 };
 ```
 
-- 🔭 Currently building **[Zync](https://zync-ashen.vercel.app/)** — AI platform that generates full React apps from a prompt
-- 🌱 Exploring **tRPC, job orchestration (Inngest), and sandboxed code execution (E2B)**
+- 🔭 Currently building **[SafeCon](https://zync-ashen.vercel.app/)** — On-device Privacy based converting tool.
+- 🌱 Exploring **Python and exploring cloud technology**
 - 🤝 Open to **collaborating** on interesting open source projects
 - 💬 Ask me about **React, Next.js, Tailwind, or full-stack architecture**
-- 📫 Reach me: [rewant.bhriguvanshi@gmail.com](mailto:rewant.bhriguvanshi@gmail.com)
+- 📫 Reach me: [rewant.bhriguvanshi1@gmail.com](mailto:rewant.bhriguvanshi1@gmail.com)
 - 🌐 Portfolio: [rewant.dev](https://rewant.dev)
 
 ---
@@ -59,13 +59,13 @@ graph LR
 **🏗️ Founding Engineer — Perseo-AI** *(Oct 2025 – Dec 2025 · Delhi, Remote)*
 - Architected a full-stack AI assistant platform with modular service architecture (Gmail, Calendar, AI, User services)
 - Implemented secure OAuth 2.0 via Clerk + Composio with 15+ RESTful API endpoints
-- Set up Jest testing suite, custom middleware stack, and comprehensive API documentation
+- Set up Vitest testing suite, custom middleware stack, and comprehensive API documentation
 
 **🌐 Web Developer Intern — Expelee FZCO** *(Sep 2025 – Oct 2025 · Dubai, Remote)*
-- Shipped 8+ client-specific templates within strict 2–3 week deadlines with 100% brand alignment
+- Shipped client-specific templates within strict 2–3 week deadlines with 100% brand alignment.
 
 **🎨 Frontend Intern — Vidyera Pvt. Ltd.** *(Feb 2026 – Apr 2026 · Nagpur, Remote)*
-- Redesigned the full frontend of **StudyNode** edtech platform with 100% accessibility, and built screens for admin, teacher, and student roles
+- Redesigned the full frontend of **StudyNode** edtech platform with 100 score lighthouse report and built screens for admin, teacher, and student roles.
 
 </details>
 
@@ -81,13 +81,13 @@ graph LR
 ```mermaid
 graph TD
   A[My Projects] --> B[Zync]
-  A --> C[Commitly]
+  A --> C[MATist]
   B --> B1[AI Code Generation]
   B --> B2[E2B Sandboxes]
-  B --> B3[99/100 Lighthouse]
-  C --> C1[GitHub-themed Social]
-  C --> C2[JWT Auth + Feeds]
-  C --> C3[99+ Lighthouse]
+  B --> B3[AI orchestration]
+  C --> C1[AI chat App]
+  C --> C2[Latex export]
+  C --> C3[Multi agent]
 ```
 
 <br/>
@@ -158,7 +158,7 @@ graph TD
 
 - 🥇 **Smart India Hackathon '25** — *Finalist* — Alumni management platform for higher institutions
 - 🏅 **Smart Delhi Ideathon '25** — *Top 10 out of 1500+ teams* — Safety system connecting instant-delivery drivers with women's safety tasks
-
+- 🏅 **Hack4ViksitBharat '26** — *Top 5* — Govt. focused anomaly detection in supply chains to identify frauds.
 ---
 
 ## 📊 GitHub Stats
@@ -182,10 +182,10 @@ graph TD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rewantbhriguvanshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rewant-bhriguvanshi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rewant.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rewant-1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rewant.bhriguvanshi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rewant.bhriguvanshi1@gmail.com)
 
 </div>
 
